@@ -1,6 +1,6 @@
 # luckydraw_project
 
-A new Flutter project.
+An App for playing Lucky Draw game.
 
 ## Getting Started
 
